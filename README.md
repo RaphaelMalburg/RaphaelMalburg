@@ -3,7 +3,7 @@
 I'm a developer with expertise in crafting web applications using React, Tailwind CSS, Next.js, and TypeScript. Currently immersed in the world of .NET development, I thrive on continuous learning and staying ahead in the ever-evolving tech landscape. 
 
 
-Skills: React | Next JS | Typescript | Tailwind | Prisma | .NET
+Skills: React | Next JS | Typescript | Tailwind | Prisma | .NET | Zustand | Sanity CMS | Figma | HTML | CSS | SQL Server | SASS
 
 
 
