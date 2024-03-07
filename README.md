@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, I'm Raphael Malburg
+#### Software Developer
+I'm a developer with expertise in crafting web applications using React, Tailwind CSS, Next.js, and TypeScript. Currently immersed in the world of .NET development, I thrive on continuous learning and staying ahead in the ever-evolving tech landscape. 
 
-<!--
-**RaphaelMalburg/RaphaelMalburg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Skills: React | Next JS | Typescript | Tailwind | Prisma | .NET
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/RaphaelMalburg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://portfolio-git-main-raphaelmalburg.vercel.app/)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/RaphaelMalburg&show_icons=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/https://github.com/RaphaelMalburg)  
+
