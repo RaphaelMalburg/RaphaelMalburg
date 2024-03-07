@@ -7,6 +7,6 @@ Skills: React | Next JS | Typescript | Tailwind | Prisma | .NET
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/RaphaelMalburg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://portfolio-git-main-raphaelmalburg.vercel.app/)  
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://portfolio-git-main-raphaelmalburg.vercel.app/)  
 
 
